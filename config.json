@@ -1,0 +1,20 @@
+{
+  "websites": [
+    "https://sourcingjournal.com/", 
+    "https://wwd.com/", 
+    "https://www.retaildive.com/", 
+    "https://www.businessoffashion.com/", 
+    "https://fashionunited.com/newsarchive", 
+    "https://us.fashionnetwork.com/", 
+    "https://www.itnk.co.kr/news/section_list_all.html?sec_no=0",
+    "https://jinil.tistory.com/",
+    "https://apparelnews.co.kr/"
+  ],
+  "email_settings": {
+    "recipient_email": "YOUR_RECIPIENT_EMAIL",
+    "sender_email": "YOUR_SENDER_EMAIL",
+    "sender_password": "YOUR_SENDER_PASSWORD",
+    "smtp_server": "YOUR_SMTP_SERVER",
+    "smtp_port": 587
+  }
+}
